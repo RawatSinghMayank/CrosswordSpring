@@ -64,8 +64,8 @@ This project demonstrates both **full-stack engineering** and **computer science
 - npm  
 - Maven  
 
-### Backend Setup (Spring Boot)  
-```bash
+### Backend Setup
+
 # Clone repo
 git clone https://github.com/RawatSinghMayank/CrosswordSpring.git
 cd CrosswordSpring/CrosswordFrontendBackend/backend
@@ -75,12 +75,10 @@ cd CrosswordSpring/CrosswordFrontendBackend/backend
 
 cd CrosswordSpring/CrosswordFrontendBackend/frontend
 
+### Frontend Setup
 # Install dependencies
 npm install
 
 # Start development server
 npm run dev
-
-
-<img width="1919" height="931" alt="Screenshot 2025-09-04 191409" src="https://github.com/user-attachments/assets/9f37c63f-edde-41f7-b0d9-29afdfcaa333" />
 
