@@ -1,11 +1,6 @@
 # Crossword Crafter 🧩  
 **Algorithmic Word Placement and Optimization using Spring Boot + React**
 
-🚀 Live Demo: [Try it here](https://mayank-singh-rawat-crossword-puzzle.netlify.app/)
-
-# Crossword Crafter 🧩  
-**Algorithmic Word Placement and Optimization using Spring Boot + React**
-
 🚀 Live Demo: [Try it here](https://mayank-singh-rawat-crossword-puzzle.netlify.app/)  
 
 ⚠️ **Note:** The backend is deployed on **Render** and the database on **Railway**.  
