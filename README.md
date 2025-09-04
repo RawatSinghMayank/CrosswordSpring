@@ -44,15 +44,16 @@ This project demonstrates both **full-stack engineering** and **computer science
 
 **Deployment**  
 - Netlify (Frontend)  
-- Local/Cloud Spring Boot (Backend)  
+- Render (Backend)
+- Database (Railway)
 
 ---
 
 ## ⚡ Getting Started  
 
 ### Prerequisites  
-- Java 17+  
-- Node.js & npm  
+- Java 21+  
+- npm  
 - Maven  
 
 ### Backend Setup (Spring Boot)  
