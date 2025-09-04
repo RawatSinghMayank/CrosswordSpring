@@ -3,7 +3,15 @@
 
 🚀 Live Demo: [Try it here](https://mayank-singh-rawat-crossword-puzzle.netlify.app/)
 
----
+# Crossword Crafter 🧩  
+**Algorithmic Word Placement and Optimization using Spring Boot + React**
+
+🚀 Live Demo: [Try it here](https://mayank-singh-rawat-crossword-puzzle.netlify.app/)  
+
+⚠️ **Note:** The backend is deployed on **Render** and the database on **Railway**.  
+Due to cold starts, the app may take a while to load.  
+👉 For a quick walkthrough, watch this **[YouTube demo video](https://youtu.be/BRvVmrBjKVs?feature=shared)**.  
+
 
 ## 📖 Overview  
 Crossword Crafter is a **full-stack crossword puzzle generator** built with **Spring Boot (backend)** and **React (frontend)**.  
@@ -72,3 +80,7 @@ npm install
 
 # Start development server
 npm run dev
+
+
+<img width="1919" height="931" alt="Screenshot 2025-09-04 191409" src="https://github.com/user-attachments/assets/9f37c63f-edde-41f7-b0d9-29afdfcaa333" />
+
