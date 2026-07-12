@@ -9,7 +9,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 🔗 **Live Demo:**  
-https://mayank-singh-rawat-crossword-puzzle.netlify.app/
+https://crosswordcrafter-crosswordpuzzlegeneratorsolver.ai.studio/
 
 ⚠️ **Note:**  
 The backend is hosted on **Render** and the database on **Railway**.  
